@@ -64,7 +64,7 @@ CSV → Excel (Power Query) → Power BI
 
 > Captura del dashboard.
 
-![Dashboard](imagenes/dashboard.png)
+![Dashboard Comercial Ventas](Imagenes/dashboard.png)
 
 ---
 
