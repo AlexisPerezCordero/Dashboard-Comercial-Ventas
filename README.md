@@ -2,7 +2,9 @@
 
 ## 📌 Descripción
 
-Este proyecto consiste en el desarrollo de un dashboard comercial interactivo en Power BI para analizar el desempeño de las ventas de una empresa. Se realizó el proceso de limpieza y transformación de datos utilizando Excel y Power Query, permitiendo visualizar indicadores clave (KPIs) y facilitar la toma de decisiones mediante información clara y dinámica.
+Este proyecto consiste en el desarrollo de un dashboard comercial interactivo en Power BI para analizar el desempeño de las ventas de una empresa.
+
+El proceso comenzó con un conjunto de datos en formato CSV, el cual fue importado a Excel y transformado mediante Power Query para realizar la limpieza y preparación de los datos. Posteriormente, el archivo de Excel limpio fue utilizado como fuente de datos en Power BI para construir el dashboard y analizar indicadores comerciales.
 
 ---
 
@@ -24,6 +26,12 @@ Este proyecto consiste en el desarrollo de un dashboard comercial interactivo en
 
 ---
 
+## 🔄 Flujo del proyecto
+
+CSV → Excel (Power Query) → Power BI
+
+---
+
 ## 📈 KPIs incluidos
 
 - Total de ventas
@@ -40,16 +48,31 @@ Este proyecto consiste en el desarrollo de un dashboard comercial interactivo en
 - Ventas por subcategoría
 - Ventas por segmento
 - KPIs comerciales
-- Segmentadores para filtrar la información
+- Segmentadores interactivos
 
 ---
 
 ## 📁 Archivos del proyecto
 
 - `Dashboard-Comercial-Ventas.pbix`
-- `Dashboard-Comercial-Ventas-Datos.xlsx`
+- `Dashboard-Comercial-Ventas-Datos.xlsx` *(datos limpios mediante Power Query)*
+- `Dashboard-Comercial-Ventas-Datos.csv` *(dataset original)*
 
 ---
 
 ## 📷 Dashboard
 
+> Captura del dashboard.
+
+![Dashboard](imagenes/dashboard.png)
+
+---
+
+## 👨‍💻 Autor
+
+**Aldahir Alexis Perez Cordero**
+
+Data Analyst
+
+- LinkedIn: https://www.linkedin.com/in/aldahir-perez-cordero-178b51361/
+- GitHub: https://github.com/AlexisPerezCordero
