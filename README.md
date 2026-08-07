@@ -1,6 +1,6 @@
-# 📊 Dashboard Comercial de Ventas
+# Dashboard Comercial de Ventas
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto consiste en el desarrollo de un dashboard comercial interactivo en Power BI para analizar el desempeño de las ventas de una empresa.
 
@@ -8,7 +8,7 @@ El proceso comenzó con un conjunto de datos en formato CSV, el cual fue importa
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Analizar el comportamiento de las ventas.
 - Identificar las regiones con mejor desempeño.
@@ -18,7 +18,7 @@ El proceso comenzó con un conjunto de datos en formato CSV, el cual fue importa
 
 ---
 
-## 🛠️ Herramientas utilizadas
+## Herramientas utilizadas
 
 - Power BI
 - Excel
@@ -26,13 +26,13 @@ El proceso comenzó con un conjunto de datos en formato CSV, el cual fue importa
 
 ---
 
-## 🔄 Flujo del proyecto
+## Flujo del proyecto
 
 CSV → Excel (Power Query) → Power BI
 
 ---
 
-## 📈 KPIs incluidos
+## KPIs incluidos
 
 - Total de ventas
 - Total de ganancias
@@ -41,7 +41,7 @@ CSV → Excel (Power Query) → Power BI
 
 ---
 
-## 📊 Visualizaciones
+## Visualizaciones
 
 - Ventas por región
 - Ventas por categoría
@@ -52,7 +52,7 @@ CSV → Excel (Power Query) → Power BI
 
 ---
 
-## 📁 Archivos del proyecto
+## Archivos del proyecto
 
 - `Dashboard-Comercial-Ventas.pbix`
 - `Dashboard-Comercial-Ventas-Datos.xlsx` *(datos limpios mediante Power Query)*
@@ -60,7 +60,7 @@ CSV → Excel (Power Query) → Power BI
 
 ---
 
-## 📷 Dashboard
+## Dashboard
 
 > Captura del dashboard.
 
@@ -68,7 +68,7 @@ CSV → Excel (Power Query) → Power BI
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Aldahir Alexis Perez Cordero**
 
